@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(file:///D:/pics/A.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1{
+    text-align: center;
+    width: 100%;
+    margin-top: 100px;
+    margin: auto ;
+    color: darkmagenta;
+    font-size: 2.6cm;
+    background-color: cornsilk;
+}
+h2{
+    color: darkmagenta;
+    font-size: 1.4cm;
+    margin: auto;
+    font-style: italic;
+    background-color: cornsilk;
+}
+#content1{
+      width: 90%;
+      margin: auto;
+      
+}
+form{
+    background-color: rgba(0,0, 0, 0.9);
+    padding: 34px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 54%;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 10px;
+    padding-bottom: 60px;
+}
+label{
+    color: aqua;
+}
+form .box{
+    width: 98.5%;
+    height: 2.8em;
+    position: relative;
+    bottom: 10px;
+    border: 0;
+}
+button{
+    margin-left: 580px;
+    height: 70px;
+    width: 24%;
+}
